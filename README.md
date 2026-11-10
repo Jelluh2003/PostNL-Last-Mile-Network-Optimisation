@@ -60,7 +60,7 @@ The script reads one Excel workbook, `data_Maastricht_2025.xlsx`, with the sheet
 
 | File | Description |
 |---|---|
-| `Elab_II_Case_2_-_Group_13.R` | Full pipeline: road networks, demand grid, pickup model, candidate selection, MILP, results and plots |
+| `PostNL-Last-Mile-Delivery-Optimisation.R` | Full pipeline: road networks, demand grid, pickup model, candidate selection, MILP, results and plots |
 
 ## Limitations
 
